@@ -1,3 +1,9 @@
 [submodule "mva"]
 	path = mva
 	url = https://github.com/3gaspo/mva.git
+[submodule "xpc"]
+	path = xpc
+	url = https://github.com/3gaspo/xpc.git
+[submodule "nlp_privacy"]
+	path = nlp_privacy
+	url = https://github.com/3gaspo/nlp_privacy.git
