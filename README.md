@@ -1,6 +1,10 @@
+# CS courses
+
 List of courses I took during my engineer degree at CentraleSupélec (2020-2024)
 
-3rd year -Mathematics and Data Science major (2023-2024):
+## 3rd year (2023-2024)
+Mathematics and Data Science major
+
 - <sub>Advanced Statistics</sub>
 - <sub>Harmonic Analysis</sub>
 - <sub>Stochastic Calculus</sub>
@@ -16,12 +20,14 @@ List of courses I took during my engineer degree at CentraleSupélec (2020-2024)
 - <sub>MVA courses (double degree)</sub>
 - <sub>Research internship at EDF on Intepretability for forecasting models</sub>
 
-Gap year (2022-2023):
+## Gap year (2022-2023)
+
 - <sub>Research internship at INRIA Grenoble on NLP & Privacy</sub>
 - <sub>Autonomous coding project to build a mobile app from scratch</sub>
 - <sub>Autonomous learning in programing and NLP</sub>
 
-2nd year S2 (Tokyo 2022):
+## 2nd year S2
+Exchange in Keio University (Tokyo)
 - <sub>Advanced Control Theory</sub>
 - <sub>Advanced Databases</sub>
 - <sub>Computer Vision</sub>
@@ -31,7 +37,8 @@ Gap year (2022-2023):
 - <sub>Cultural Understanding</sub>
 - <sub>Japanese</sub>
 
-2nd year S1 (2021-2022):
+## 2nd year S1 (2021-2022)
+
 - <sub>Control Theory</sub>
 - <sub>Machine Learning</sub>
 - <sub>Neurosciences and bioprocesses</sub>
@@ -44,7 +51,8 @@ Gap year (2022-2023):
 - <sub>Quantum Computing project</sub>
 - <sub>Corporate game</sub>
 
-1st year (2020-2021):
+## 1st year (2020-2021)
+
 - <sub>Statistics and learning</sub>
 - <sub>Modelisation in engineering</sub>
 - <sub>Probabilities and Integration</sub>
