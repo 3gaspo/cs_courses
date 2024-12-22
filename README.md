@@ -1,7 +1,7 @@
 List of courses I took during my engineer degree at CentraleSupélec (2020-2024)
 
 3rd year -Mathematics and Data Science major (2023-2024):
-- Advanced Statistics
+- <sub>Advanced Statistics</sub>
 - Harmonic Analysis
 - Stochastic Calculus
 - Advanced Machine Learning
