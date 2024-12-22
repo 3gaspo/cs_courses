@@ -21,7 +21,7 @@ List of courses I took during my engineer degree at CentraleSupélec (2020-2024)
 - <sub>Research internship at EDF on Intepretability for forecasting models</sub>
 
 ## Gap year
-(2022-2023)
+(2022-2023) Grenoble
 
 - <sub>Research internship at INRIA Grenoble on NLP & Privacy</sub>
 - <sub>Autonomous coding project to build a mobile app from scratch</sub>
@@ -40,7 +40,7 @@ List of courses I took during my engineer degree at CentraleSupélec (2020-2024)
 - <sub>Japanese</sub>
 
 ## 2nd year S1
-(2021-2022)
+(2021-2022) Gif-sur-Yvette
 
 - <sub>Control Theory</sub>
 - <sub>Machine Learning</sub>
@@ -55,7 +55,7 @@ List of courses I took during my engineer degree at CentraleSupélec (2020-2024)
 - <sub>Corporate game</sub>
 
 ## 1st year
-(2020-2021)
+(2020-2021) Gif-sur-Yvette
 
 - <sub>Statistics and learning</sub>
 - <sub>Modelisation in engineering</sub>
